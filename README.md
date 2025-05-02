@@ -19,7 +19,7 @@ Analyze agent performance and key call center metrics and identify trends in cal
 -Call volume by hour and by day
 
 ## Dashboard 
-[dashboard screenshots (1).png](https://github.com/AnushaTentu30/PWC-Call-Center-Dashboard-Analysis-Power-BI/edit/main/README.md)
+[[dashboard screenshots (1).png](https://github.com/AnushaTentu30/PWC-Call-Center-Dashboard-Analysis-Power-BI/edit/main/README.md)](https://github.com/AnushaTentu30/PWC-Call-Center-Dashboard-Analysis-Power-BI/blob/main/dashboard%20screenshots%20(1).png)
 ## Process
 
 -Identified peak hours and days with highest call volumes to help in workforce planning
